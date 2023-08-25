@@ -13,7 +13,7 @@ Target-date funds are structured to maximize the investor's returns by a specifi
 
 Largest Target Date Providers by AUM
 
-![](Images/TRowe-Price-Logo.png)
+![](Images/TRowe-Price-Logo.png) ![](Images/AmerFunds.jpg)
 
 
 ## Base Target Fund used for Analysis
