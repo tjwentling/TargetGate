@@ -16,7 +16,6 @@ Largest Target Date Providers by AUM
 <img src="Images/TRowe-Price-Logo.png" width="300"/> <img src="Images/AmerFunds.jpg" width="300"/> <img src="Images/vanguard-logo.jpeg" width="300"/>
 
 
-
 ## Base Target Fund used for Analysis
 
 
