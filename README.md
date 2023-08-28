@@ -18,6 +18,7 @@ Largest Target Date Providers by AUM
 
 ## Base Target Fund used for Analysis
 
+<img src="Images/allocations.png" width="300"/> <img src="Images/ratios.png">
 
 ## Indices used for Customized Target Date Fund
 
