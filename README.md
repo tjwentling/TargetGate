@@ -20,12 +20,12 @@ Lastly, while it is possible to invest in a target date fund outside of a tax-ad
 
 <ins>Largest Target Date Providers by AUM</ins>
 
-<img src="Images/TRowe-Price-Logo.png" width="300"/> <img src="Images/AmerFunds.jpg" width="300"/> <img src="Images/vanguard-logo.jpeg" width="300"/>
+<img src="Images/TRowe-Price-Logo.png" width="300"/> <img src="Images/AmerFunds.jpg" width="250"/> <img src="Images/vanguard-logo.jpeg" width="300"/>
 
 
 ## Base Target Fund used for Analysis
 
-<img src="Images/allocations.png" width="500"/> <img src="Images/ratios.png" width="250"> <br>
+<img src="Images/allocations.png" width="500"/> <img src="Images/ratios.png" width="300"> <br>
 <ins>ISHARES MSCI ACWI ETF</ins> <br>
 <img src="Images/ACWI.png" width="750"> <br>
 <ins>ISHARES RUSSELL 3000 ETF</ins> <br>
