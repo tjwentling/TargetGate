@@ -25,7 +25,7 @@ Lastly, while it is possible to invest in a target date fund outside of a tax-ad
 
 ## Base Target Fund used for Analysis
 
-<img src="Images/allocations.png" width="300"/> <img src="Images/ratios.png"> <br>
+<img src="Images/allocations.png" width="500"/> <img src="Images/ratios.png" width="250"> <br>
 <ins>ISHARES MSCI ACWI ETF</ins> <br>
 <img src="Images/ACWI.png" width="750"> <br>
 <ins>ISHARES RUSSELL 3000 ETF</ins> <br>
