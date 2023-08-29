@@ -27,6 +27,10 @@ Lastly, while it is possible to invest in a target date fund outside of a tax-ad
 
 <img src="Images/allocations.png" width="300"/> <img src="Images/ratios.png">
 
+<img src="Images/ACWI.png" width="750">
+<img src="Images/IWV.png" width="750">
+<img src="Images/AGG.png" width="750">
+
 ## Indices used for Customized Target Date Fund
 
 
