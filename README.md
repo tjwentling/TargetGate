@@ -35,7 +35,12 @@ Given all the advantages of TDFs, there are pitfalls that investors should be aw
 
 <img src="Images/riskreturn.png" width="500"/> <br>
 
-Per the above Target Date Fund risk-reward chart, we can infer longer term Sharpe ratios of target date funds are approximately 1.
+Per the above Target Date Fund risk-reward chart, we can infer longer term Sharpe ratios of target date funds are approximately 1. We decided to attempt to beat this risk-adjusted return profile.
+
+<img src="Images/daily_returns_box_plots.png" width="500"/> <br>
+<img src="Images/std_dev_plot.png" width="500"/> <br>
+<img src="Images/corr_matrix.png" width="500"/> <br>
+
 
 <img src="Images/US_Tilt.png" width="500"/> <br>
 
