@@ -1,6 +1,6 @@
 # TargetGate?
 
-TargetGate is attempting to compare Target Date Mutual Funds to a customized glide path allocation built by us. We will attempt multiple allocation strategies to outperform various Target Date funds.
+TargetGate is attempting to compare Target Date Mutual Funds to a customized allocation built by us - the dream team. 
 
 Tools:<br>
 Alpaca<br>
