@@ -27,7 +27,13 @@ Lastly, while it is possible to invest in a target date fund outside of a tax-ad
 
 <img src="Images/allocations.png" width="500"/> <img src="Images/ratios.png" width="300"> <br>
 
-<img src="Images/riskreturn.png" width="500"/>
+<img src="Images/riskreturn.png" width="500"/> <br>
+
+Per the above Target Date Fund risk-reward chart, we can infer longer term Sharpe ratios of target date funds are approximately 1.
+
+
+
+
 
 
 ## Indices used for Customized Target Date Fund
