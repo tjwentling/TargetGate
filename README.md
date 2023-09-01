@@ -41,8 +41,15 @@ the portfolio Sharpe Ratio of 0.6 is less efficient per unit of risk than a TDF.
 <img src="Images/Balanced.png" width="500"/> <br>
 
 Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomred in line with TDFs and suffered from  <br>
+
 less efficient Sharpe Ratios.  <br>
 
+<img src="Images/3_stock_portfolio.png" width="500"/> <br>
+
+We decided to run another iteration equally weighted between three high performing stocks (NVDA, TSLA, and AAPL). Even with annualized returns of over 30%, a Sharpe Ratio of just 0.87 was achieved due to the volatility. 
+
+Iterating through these portfolios gave us an interesting perspective about how TDFs can be useful in optimizing risk-reward over long periods of time which can be of benefit, especially in periods of economic stress, 
+despite valid criticisms.
 
 
 ## Indices used for Customized Target Date Fund
