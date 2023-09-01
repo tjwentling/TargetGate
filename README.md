@@ -37,18 +37,18 @@ Given all the advantages of TDFs, there are pitfalls that investors should be aw
 
 Per the above Target Date Fund risk-reward chart, we can infer longer term Sharpe ratios of target date funds are approximately 1. We decided to attempt to beat this risk-adjusted return profile.
 
-<img src="Images/daily_returns_box_plots.png" width="1000"/> <br>
+<img src="Images/daily_returns_box_plots.png" width="800"/> <br>
 
-<img src="Images/std_dev_plot.png" width="1000"/> <br>
+<img src="Images/std_dev_plot.png" width="800"/> <br>
 
-<img src="Images/corr_matrix.png" width="1000"/> <br>
+<img src="Images/corr_matrix.png" width="800"/> <br>
 
-<img src="Images/US_Tilt.png" width="500"/> <br>
+<img src="Images/US_Tilt.png" width="800"/> <br>
 
 The US tilted portfolio consisted of 70% US Equitites, 20% Global Equities, and 10% bonds. It achieved annualized returns of 9% per year, outperforming typical returns of Target Date Funds. However, on a risk-adjusted basis, the portfolio Sharpe Ratio of 0.6 is less efficient per unit of risk than a TDF.
 
 
-<img src="Images/bond_tilt.png" width="500"/> <br>
+<img src="Images/bond_tilt.png" width="800"/> <br>
 
 The bond tilted portfolio consisted of 10% US Equitites, 10% Global Equities, and 80% bonds. It achieved annualized returns of only 0.5% per year and rate volatility has made bonds extremely unattractive.
 
@@ -56,12 +56,12 @@ The bond tilted portfolio consisted of 10% US Equitites, 10% Global Equities, an
 
 
 
-<img src="Images/Global_Tilt.png" width="500"/> <br>
-<img src="Images/Balanced.png" width="500"/> <br>
+<img src="Images/Global_Tilt.png" width="800"/> <br>
+<img src="Images/Balanced.png" width="800"/> <br>
 
 Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomred in line with TDFs and suffered from less efficient Sharpe Ratios.
 
-<img src="Images/3_stock_portfolio.png" width="500"/> <br>
+<img src="Images/3_stock_portfolio.png" width="800"/> <br>
 
 We decided to run another iteration equally weighted between three high performing stocks (NVDA, TSLA, and AAPL). Even with annualized returns of over 30%, a Sharpe Ratio of just 0.87 was achieved due to the volatility. 
 
