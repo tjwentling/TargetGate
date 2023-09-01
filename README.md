@@ -35,16 +35,21 @@ Per the above Target Date Fund risk-reward chart, we can infer longer term Sharp
 
 <img src="Images/US_Tilt.png" width="500"/> <br>
 
-The US tilted portfolio consisted of 70% US Equitites, 20% Global Equities, and 10% bonds. It achieved annualized returns of 9% per year, outperforming typical returns of Target Date Funds. However, on a risk-adjusted basis, <br>
-the portfolio Sharpe Ratio of 0.6 is less efficient per unit of risk than a TDF. <br>
+The US tilted portfolio consisted of 70% US Equitites, 20% Global Equities, and 10% bonds. It achieved annualized returns of 9% per year, outperforming typical returns of Target Date Funds. However, on a risk-adjusted basis, the portfolio Sharpe Ratio of 0.6 is less efficient per unit of risk than a TDF.
+
+
+<img src="Images/bond_tilt.png" width="500"/> <br>
+
+The bond tilted portfolio consisted of 10% US Equitites, 10% Global Equities, and 80% bonds. It achieved annualized returns of only 0.5% per year and rate volatility has made bonds extremely unattractive.
+
+
+
 
 
 <img src="Images/Global_Tilt.png" width="500"/> <br>
 <img src="Images/Balanced.png" width="500"/> <br>
 
-Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomred in line with TDFs and suffered from  <br>
-
-less efficient Sharpe Ratios.  <br>
+Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomred in line with TDFs and suffered from less efficient Sharpe Ratios.=
 
 <img src="Images/3_stock_portfolio.png" width="500"/> <br>
 
@@ -52,6 +57,12 @@ We decided to run another iteration equally weighted between three high performi
 
 Iterating through these portfolios gave us an interesting perspective about how TDFs can be useful in optimizing risk-reward over long periods of time which can be of benefit, especially in periods of economic stress, 
 despite valid criticisms.
+
+
+
+
+
+
 
 
 ## Indices used for Customized Target Date Fund
