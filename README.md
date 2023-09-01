@@ -31,7 +31,7 @@ Given all the advantages of TDFs, there are pitfalls that investors should be aw
 
 ## Analysis
 
-<img src="Images/allocations.png" width="500"/> <img src="Images/ratios.png" width="300"> <br>
+<img src="Images/allocations.png" width="500"/> <br>
 
 <img src="Images/riskreturn.png" width="500"/> <br>
 
