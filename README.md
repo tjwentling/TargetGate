@@ -26,7 +26,7 @@ Given all the advantages of TDFs, there are pitfalls that investors should be aw
 
 <ins>Largest Target Date Providers by AUM</ins>
 
-<img src="Images/TRowe-Price-Logo.png" width="275"/>  &nbsp;  <img src="Images/AmerFunds.jpg" width="225"/> <img src="Images/vanguard-logo.jpeg" width="275"/>
+<img src="Images/TRowe-Price-Logo.png" width="275"/>  &nbsp;&nbsp;&nbsp; <img src="Images/AmerFunds.jpg" width="225"/> <img src="Images/vanguard-logo.jpeg" width="275"/>
 
 
 ## Analysis
