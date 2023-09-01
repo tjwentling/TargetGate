@@ -1,4 +1,4 @@
-# TargetGate
+# TargetGate?
 
 TargetGate is attempting to compare Target Date Mutual Funds to a customized glide path allocation built by us. We will attempt multiple allocation strategies to outperform various Target Date funds.
 
@@ -8,12 +8,12 @@ Python<br>
 Jupyter Lab<br>
 Plotting Tools<br>
 
-<ins>Target Date Definition:</ins><br>
+# <ins>Target Date Definition:</ins><br>
 Target-date funds are structured to maximize the investor's returns by a specific date. Generally, the funds are designed to build gains in the early years by focusing on riskier growth stocks, then they aim to retain those gains by weighting towards safer, more conservative choices as the target date approaches.
 
 While target date funds (TDF) are structured as mutual funds designed to manage investment risk, they can be more complex. Individual investors usually pick a fund with a target year closest to the year you anticipate retiring, say a "2050 Fund." The closer a fund gets to its target date, the more it focuses on assets with a lower risk profile, such as fixed income, cash, and cash equivalents. This shift across lower-risk asset classes is called a "glide path." A fund's glide path is designed to reduce investment risk over time—but glide paths can vary considerably from fund to fund.<br>
 
-<ins>Critical Considerations of Target Date Funds:</ins> <br>
+# <ins>Critical Considerations of Target Date Funds:</ins> <br>
 As with other mutual funds, fees are vital as a slight difference in fees (measured in percentages) can add up to a significant dollar difference in the returns. <br>
 
 It is also essential to look at one's overall investment portfolio. An outsized investment holding in either stocks or bonds can magnify or offset the impact of your target fund returns. <br>
@@ -24,7 +24,7 @@ Lastly, while it is possible to invest in a target date fund outside of a tax-ad
 
 Given all the advantages of TDFs, there are pitfalls that investors should be aware when the fiduciary breaches its duties.  Case in point: In or around June 2021, Northern Trust was hit with an ERISA class-action suit for loading its retirement plan with poorly performing proprietary target date funds that underperformed similarly available offerings in the market. It was said to have breached its fiduciary duty to select and monitor the plan’s investment options prudently. A lawsuit filed by its current and former employers stated that it failed to monitor plan investments regularly and remove or replace ones that had become imprudentr time.  As a result, Northern Trust Focus Funds performed worse than 70-90% of their peerfunds for nearly an entire decade, a period during which investors were not given any alternate choices.
 
-<ins>Largest Target Date Providers by AUM</ins>
+# <ins>Largest Target Date Providers by AUM</ins>
 
 <img src="Images/TRowe-Price-Logo.png" width="275"/>  &nbsp;&nbsp;&nbsp; <img src="Images/AmerFunds.jpg" width="225"/> <img src="Images/vanguard-logo.jpeg" width="275"/>
 
