@@ -59,7 +59,7 @@ The bond tilted portfolio consisted of 10% US Equitites, 10% Global Equities, an
 <img src="Images/Global_Tilt.png" width="800"/> <br>
 <img src="Images/Balanced.png" width="800"/> <br>
 
-Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomred in line with TDFs and suffered from less efficient Sharpe Ratios.
+Reviewing our Global Equity tilted portfolio (20-70-10, US Equity-Global Equity-Bonds) and our Balanced asset class mix (40-40-20, US Equity-Global Equity-Bonds), we see returns perfomed in line with TDFs and suffered from less efficient Sharpe Ratios.
 
 <img src="Images/3_stock_portfolio.png" width="800"/> <br>
 
